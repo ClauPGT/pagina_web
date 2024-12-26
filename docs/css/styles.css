@@ -1,0 +1,44 @@
+.parrafos_index {
+    text-align: center;
+    background-color: #b39ddb;
+    color: #ffffff;
+}
+
+.titulos_index {
+    text-align: center;
+    background-color: #7e57c2;
+    color: #ffffff;
+}
+
+.parrafos_contacto {
+    text-align: center;
+    background-color: #b2ebf2;
+    color: #ffffff;
+}
+
+.titulos_contacto {
+    text-align: center;
+    background-color: #80deea;
+    color: #ffffff;
+}
+
+.imagenes {
+    height: 5cm;
+    width: 5cm;
+}
+
+.menu {
+    height: 3cm;
+    width: 3cm;
+    margin: 1cm;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.separador {
+    text-align: center;
+}

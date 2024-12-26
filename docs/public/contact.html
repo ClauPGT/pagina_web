@@ -1,9 +1,33 @@
-<!DOCTYPE html>>
+<!DOCTYPE html>
+
 <html>
-<head>
-    <title>Contacto</title>
-</head>
-<body bgcolor="#e0f7fa">
-    
-</body>
+
+    <head>
+        <link rel="stylesheet" href="css/styles.css">
+        
+        <title>Contacto</title>
+    </head>
+
+    <body bgcolor="#e0f7fa">
+        <h1 class="titulos_contacto">Contacto</h1>
+
+        <p class="parrafos_contacto">Aquí tiene un formulario por si necesita ponerse en contacto conmigo, por favor, no dude en utilizarlo!</p>
+
+        <form>
+            <label for="name">Nombre:</label><br>
+            <input type="text" id="name" name="fname"><br>
+            <label for="surname">Apellidos:</label><br>
+            <input type="text" id="surname" name="surname"><br>
+            <label for="fecha">Fecha:</label><br>
+            <input type="date" id="fecha" name="fecha"><br>
+            <label for="correo">Correo electrónico:</label><br>
+            <input type="text" id="correo" name="correo"><br>
+            <label for="razon">Razón por la que escribe:</label><br>
+            <input type="text" id="razon" name="razon"><br>
+            <button type="submit" onclick="alert('Formulario enviado, gracias!')">Enviar formulario</button>
+            <button type="reset" onclick="alert('Credenciales reseteadas')">Resetear todo</button>
+        </form>
+
+    </body>
+
 </html>
