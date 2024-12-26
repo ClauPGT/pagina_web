@@ -1,0 +1,21 @@
+.parrafos {
+    text-align: center;
+    background-color: #b2ebf2;
+    color: #000000;
+}
+
+.titulos {
+    text-align: center;
+    background-color: #80deea;
+    color: #000000;
+}
+
+.formulario {
+    text-align: center;
+    margin: 1cm;
+}
+
+.imagenes {
+    height: 5cm;
+    width: 5cm;
+}
