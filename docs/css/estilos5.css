@@ -1,0 +1,15 @@
+.menu {
+    height: 3cm;
+    width: 3cm;
+    margin: 1cm;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.separador {
+    text-align: center;
+}
