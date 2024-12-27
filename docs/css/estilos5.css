@@ -13,3 +13,32 @@
 .separador {
     text-align: center;
 }
+
+.parrafos {
+    text-align: center;
+    background-color: #80cbc4;
+    color: #ffffff;
+    padding: 0.2cm;
+}
+
+.titulos {
+    text-align: center;
+    background-color: #4db6ac;
+    color: #ffffff;
+    padding: 0.2cm;
+}
+
+.columna {
+    flex: 1 1 calc(50% - 20px);
+    text-align: center;
+    background-color: #80cbc4;
+    color: #ffffff;
+}
+
+.contenedor2 {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    gap: 20px; 
+    padding: 0.2cm;
+  }

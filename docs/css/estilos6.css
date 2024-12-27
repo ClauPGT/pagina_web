@@ -13,3 +13,17 @@
 .separador {
     text-align: center;
 }
+
+.parrafos {
+    text-align: center;
+    background-color: #ef9a9a;
+    color: #ffffff;
+    padding: 0.2cm;
+}
+
+.titulos {
+    text-align: center;
+    background-color: #e57373;
+    color: #ffffff;
+    padding: 0.2cm;
+}
