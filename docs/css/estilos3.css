@@ -13,3 +13,17 @@
     width: 3cm;
     margin: 1cm;
 }
+
+.parrafos {
+    text-align: center;
+    background-color: #bcaaa4;
+    color: #ffffff;
+    padding: 0.2cm;
+}
+
+.titulos {
+    text-align: center;
+    background-color: #a1887f;
+    color: #ffffff;
+    padding: 0.2cm;
+}
