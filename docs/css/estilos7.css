@@ -27,3 +27,35 @@
     color: #ffffff;
     padding: 0.2cm;
 }
+
+.columna {
+    flex: 1 1 calc(50% - 20px);
+    text-align: center;
+    background-color: #9fa8da;
+    color: #ffffff;
+}
+
+.contenedor2 {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    gap: 20px; 
+    padding: 0.2cm;
+}
+
+.curriculum {
+    width: calc(50%);
+}
+
+.imagenes {
+    height: 5cm;
+    width: 5cm;
+    margin: 0.5cm;
+}
+
+.logo {
+    height: 0.5cm;
+    width: 0.5cm;
+    margin-left: 0.3cm;
+    margin-right: 0.3cm;
+}
