@@ -11,10 +11,17 @@ Esta página incluye varias secciones, siendo estas una sección de contacto, un
 
 -Problemas durante el desarrollo 
 
-Al principio, el incluir una foto en el index.html se me ha hecho un poco complicado, porque (tras haber investigado) he descubierto que al comando <img src=”---.jpg”/> que pone en la presentación, hay que añadir la carpeta delante del nombre en la que esta guardada la foto, de tal manera que el comando se queda así: <img src=”images/---.jpg”/>. 
+Al principio, el incluir una foto en el index.html se me ha hecho un poco complicado, porque (tras haber investigado) he descubierto que al comando "<img src=”---.jpg”/>" que pone en la presentación, hay que añadir la carpeta delante del nombre en la que esta guardada la foto, de tal manera que el comando se queda así: "<img src=”images/---.jpg”/>." 
 
 Al meter todas las configuraciones en la carpeta css solo se ven las del index al estar a la misma altura que la carpeta.  Tenía que hacer referencia a la carpeta superior para que pudiera coger las referencias el programa. 
 
+Al principio averuguar como era para que las cosas quedaran centradas y bien puestas era un poco raro y tedioso, pero se le termina pilando el tranquillo.
+
+La compatibilidad del png de la pestaña de contancto habia un momento en que no se veian, pero era algo fácil de solucionar.
+
+
  
 
--Conclusiones 
+-Conclusiones
+Hacer una página web es muy entretenido y relativamente sencillo una vez que pillas lo que hay que hacer y habiendo echado horas de investigación a como hacer la página funcional, y puede quedarte muy bien estéticamente con poco trabajo que hagas (aplicando los comandos de clase y alguno de investigación para que quede estéticamente bonito y bien).
+También puedes hecharle horas y horas decorandola, pero hacerla funcional es muy fácil.
