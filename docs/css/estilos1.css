@@ -32,3 +32,9 @@
 .separador {
     text-align: center;
 }
+
+.licencia {
+    text-align: center;
+    background-color: #9575cd;
+    color: #ffffff;
+}
